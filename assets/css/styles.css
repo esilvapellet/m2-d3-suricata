@@ -1,0 +1,52 @@
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+/* inicio estilos navbar */
+
+nav,
+footer {
+    background-color: #E83E8C;
+}
+
+/* fin estilos navbar */
+
+/* inicio estilos header */
+
+header h1 {
+    font-size: 35px;
+    color: #707070;
+    font-weight: 700;
+}
+
+/* fin estilos header */
+
+#productos h5{
+    font-weight: 700;
+}
+
+#productos a{
+    text-decoration: none;
+}
+
+#tarjetas {
+    background-color: #17A2B8;
+}
+
+#tarjetas h2{
+    font-weight: bold;
+}
+
+#tarjetas .wrapper-tarjetas-iconos i {
+    font-size: 85px;
+    margin: 0px 5px;
+}
+
+/* inicio estilos footer */
+
+footer img {
+    width: 4%;
+    min-width: 35px;
+}
+
+/* fin estilos footer */
